@@ -1,0 +1,15 @@
+{
+	"scope": "source.php",
+
+	"completions":
+	[
+		{ 
+			"trigger": "pubfun", 
+			"contents": "public function ${1:nama}($2)\n{\n$0\n}"			
+		},		
+		{
+			"trigger": "thi", 
+			"contents": "\\$this->$1"
+		},
+	]
+}
