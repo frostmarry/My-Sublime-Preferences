@@ -1,0 +1,17 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"enable_tab_scrolling": false,
+	"font_face": "Fira Code",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "ayu-mirage.sublime-theme"
+}
