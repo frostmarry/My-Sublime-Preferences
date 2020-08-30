@@ -1,0 +1,11 @@
+{
+	"scope": "source.json",
+
+	"completions":
+	[
+		{ 
+			"trigger": "kv", 
+			"contents": "\"${1:key}\" : \"${2:value}\","			
+		},		
+	]
+}
